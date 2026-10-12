@@ -1,0 +1,8 @@
+node_modules/
+pos_backend/node_modules/
+.env
+pos_backend/.env
+build/
+.dart_tool/
+.idea/
+*.log
